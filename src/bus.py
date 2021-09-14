@@ -4,7 +4,6 @@ class Bus:
         self.destination = input_destination
         self.passengers = []
         
-
     def drive(self):
         return "Brum brum"
 
