@@ -28,27 +28,3 @@ class Bus:
 
 
 
-# class Bus:
-#     def __init__(self, input_route_number, input_destination):
-#         self.route_number = input_route_number
-#         self.destination = input_destination   
-#         self.person_list = [] 
-    
-
-#     def drive(self):
-#         return "Brum brum"
-
-#     def passenger_count(self):
-#         return len(self.person_list)
-
-#     def pick_up(self, person):
-#         self.person_list.append(person)
-        
-        
-#     def drop_off(self,person):
-#         self.person_list.remove(person)
-       
-
-#     def empty(self):
-#         for person in self.person_list:
-#             self.person_list.remove(person)

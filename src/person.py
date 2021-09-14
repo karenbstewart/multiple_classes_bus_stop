@@ -4,9 +4,4 @@ class Person:
         self.age = input_age
 
 
-
-# class Person:
-#     def __init__(self, input_name, input_age):
-#         self.name = input_name
-#         self.age = input_age
         
